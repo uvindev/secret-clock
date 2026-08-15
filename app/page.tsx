@@ -105,7 +105,7 @@ export default function Home() {
           </p>
         </div>
         <div className="price">
-          <span>TEAM / [TARGET]</span>
+          <span>TEAM / PROPOSED</span>
           <strong>
             $29<small>/ workspace / month</small>
           </strong>
