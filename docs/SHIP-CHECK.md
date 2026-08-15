@@ -10,3 +10,7 @@
 - [x] IAMUVIN signature gate exits 0 and ends with `SIGNED`.
 - [x] Private GitHub repository and `origin/main` match the verified commit.
 - [x] Revenue and customer count remain unverified because no trusted payment evidence exists.
+
+---
+
+**Correction, 15 August 2026.** This repository is public. The line above recorded a private-only publication and was true when it was written; it is left as written rather than edited, and this note records the reversal. An MIT LICENSE was added at the same time and every source header updated to match it.

@@ -6,7 +6,7 @@ The workbench never needs credential values. Recognized value-bearing fields sto
 
 ## Who pays
 
-Platform and security teams can evaluate the local audit for free. Team is a `[TARGET] $29/workspace/month` hypothesis for read-only source connectors, saved evidence history, owner reminders, exception approvals, and ticket handoff.
+Platform and security teams can evaluate the local audit for free.
 
 Demand, customer count, and willingness to pay are unverified. No checkout is configured.
 
