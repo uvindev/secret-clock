@@ -4,6 +4,8 @@ SecretClock turns secret metadata into a browser-local rotation evidence queue. 
 
 The workbench never needs credential values. Recognized value-bearing fields stop the import before records are parsed. SecretClock does not rotate, revoke, disable, reveal, transmit, or persist credentials.
 
+![SecretClock on load: the rotation review queue built from secret metadata](docs/screenshot.png)
+
 ## Who pays
 
 Platform and security teams can evaluate the local audit for free.
