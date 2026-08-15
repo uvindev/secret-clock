@@ -25,4 +25,4 @@
 - [x] Implement and test the workbench.
 - [x] Run production and browser checks.
 - [x] Push one private repository.
-- [ ] Record iteration 10 in portfolio state.
+- [x] Record iteration 10 in portfolio state.
