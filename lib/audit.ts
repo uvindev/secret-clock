@@ -3,7 +3,7 @@
  * @author   Uvin Vindula (IAMUVIN)
  * @website  https://iamuvin.com
  * @built    2026
- * @license  Proprietary — all rights reserved
+ * @license  MIT
  */
 
 import type {
