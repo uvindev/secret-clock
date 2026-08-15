@@ -1,0 +1,46 @@
+{
+  "name": "secret-clock",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Browser-local secret rotation metadata audit and evidence queue.",
+  "author": "Uvin Vindula <uvin95dev@gmail.com> (https://iamuvin.com)",
+  "homepage": "https://iamuvin.com",
+  "contributors": [
+    "Uvin Vindula (IAMUVIN) — iamuvin.com"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "verify": "pnpm format:check && pnpm lint && pnpm typecheck && pnpm test && pnpm build && bash ./scripts/verify-signature.sh"
+  },
+  "dependencies": {
+    "next": "15.5.22",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "3.3.3",
+    "@tailwindcss/postcss": "4.3.3",
+    "@testing-library/react": "16.3.2",
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "eslint": "9.39.2",
+    "eslint-config-next": "15.5.22",
+    "jsdom": "27.1.0",
+    "prettier": "3.6.2",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3",
+    "vitest": "4.1.10"
+  },
+  "packageManager": "pnpm@11.6.0"
+}

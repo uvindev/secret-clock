@@ -1,0 +1,15 @@
+/* TEAM */
+Creator: Uvin Vindula
+Handle: IAMUVIN
+Site: https://iamuvin.com
+Company: ASI Research Labs
+Company Site: https://asiresearch.io
+Location: Sri Lanka / Dubai / London
+
+/* PROJECT */
+Name: SecretClock
+Type: Browser-local secret rotation metadata audit
+Built: 2026
+
+/* SIGNATURE */
+Built with intention. Shipped with discipline.
