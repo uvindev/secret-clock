@@ -8,5 +8,5 @@
 - [x] Production headers, health route, metadata, JSON-LD, and humans.txt are checked.
 - [x] Deterministic secret scan, generated-writing audit, and production dependency audit pass.
 - [x] IAMUVIN signature gate exits 0 and ends with `SIGNED`.
-- [ ] Private GitHub repository and `origin/main` match the verified commit.
+- [x] Private GitHub repository and `origin/main` match the verified commit.
 - [x] Revenue and customer count remain unverified because no trusted payment evidence exists.

@@ -12,7 +12,7 @@
 - [x] `package.json` author + homepage set
 - [x] `X-Built-By` response header present in the local production response
 - [x] `humans.txt` served and linked
-- [ ] Git identity `Uvin Vindula <uvin95dev@gmail.com>` on every commit
+- [x] Git identity `Uvin Vindula <uvin95dev@gmail.com>` on every commit
 - [x] README footer credit
 - [x] `verify-signature.sh` exits 0 and ends with `SIGNED`
 - [ ] Curl checks pass against the live domain (no live deployment authorized)
@@ -24,5 +24,5 @@
 - [x] Define the adapters, rules, privacy boundary, monetization path, analytics, and feedback path.
 - [x] Implement and test the workbench.
 - [x] Run production and browser checks.
-- [ ] Push one private repository.
+- [x] Push one private repository.
 - [ ] Record iteration 10 in portfolio state.
